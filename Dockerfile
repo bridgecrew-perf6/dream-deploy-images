@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/sig-storage/local-volume-provisioner:v2.4.0
+FROM k8s.gcr.io/ingress-nginx/controller:v1.0.4
